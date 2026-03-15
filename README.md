@@ -8,5 +8,5 @@ Exercício - Atributos, links e imagens.
 exercícios  - Comentarios em HTML.  
 # Tabelas em HTML.    
 Exercícios - Tabela em HTML.  
-Semântica no HTML - main,nav,section,header e footer.  
+# Semântica no HTML - main,nav,section,header e footer.  
 exercício- Semântica no HTML - main,nav,section,header e footer.
