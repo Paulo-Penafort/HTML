@@ -4,7 +4,7 @@ Fundamentos HTML.
 Exercícios- Tags essenciais:headings, parágrafos, lista.  
 # Atributos,link e imagens.  
 Exercício - Atributos, links e imagens.  
-# comentários.  
+# Comentários.  
 Exercícios  - Comentarios em HTML.  
 # Tabelas em HTML.    
 Exercícios - Tabela em HTML.  
