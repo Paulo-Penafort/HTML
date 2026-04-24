@@ -1,0 +1,42 @@
+body {
+    background-color: lightyellow;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+    height:100%;
+    gap: 30px;
+    flex-wrap: wrap;
+    background-color: aquamarine;
+}
+
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    background-color: azure;
+}
+
+/*
+ justify-content = Eixo principal
+ flex-start
+ flex-end
+ center
+ space-between
+ space-around
+ space-evenly
+
+ aling-item = Eixo secundario
+ flex-start
+ flex-end
+ center
+ stretch
+ baseline
+
+ */
